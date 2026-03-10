@@ -1,0 +1,38 @@
+{
+  "$schema": "https://mintlify.com/docs.json",
+  "theme": "mint",
+  "name": "Documentation",
+  "colors": {
+    "primary": "#0D9373"
+  },
+  "navigation": {
+    "tabs": [
+      {
+        "tab": "KW Group"
+      },
+      {
+        "tab": "KW IT",
+        "groups": [
+          {
+            "group": "FAQ",
+            "pages": []
+          },
+          {
+            "group": "Software",
+            "pages": [
+              "test-page"
+            ]
+          },
+          {
+            "group": "Server Hosting",
+            "pages": []
+          },
+          {
+            "group": "Website Hosting",
+            "pages": []
+          }
+        ]
+      }
+    ]
+  }
+}
