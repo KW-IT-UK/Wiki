@@ -8,40 +8,42 @@
   "navigation": {
     "products": [
       {
-        "product": "KW Wiki",
+        "product": "KW IT",
         "color": {
           "light": "#ff0000",
           "dark": "#ff0000"
         },
         "description": "KW Wiki Page",
-        "tabs": [
+        "pages": [
+          "homepage",
+          "support-links",
+          "faq",
           {
-            "tab": "KW Group",
+            "group": "Software",
             "pages": [
-              "homepage"
+              "untitled-page"
             ]
           },
           {
-            "tab": "KW IT",
-            "groups": [
-              {
-                "group": "FAQ",
-                "pages": []
-              },
-              {
-                "group": "Software",
-                "pages": [
-                  "test-page"
-                ]
-              },
-              {
-                "group": "Server Hosting",
-                "pages": []
-              },
-              {
-                "group": "Website Hosting",
-                "pages": []
-              }
+            "group": "Hardware",
+            "pages": []
+          },
+          {
+            "group": "Hosting",
+            "pages": [
+              "website-hosting-1",
+              "storage-server-hosting",
+              "linux-server-hosting"
+            ]
+          },
+          {
+            "group": "Pricing",
+            "pages": [
+              "anti-virus",
+              "mini-pcs",
+              "server-hosting",
+              "storage-servers",
+              "website-hosting"
             ]
           }
         ]
