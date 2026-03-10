@@ -20,9 +20,7 @@
           "faq",
           {
             "group": "Software",
-            "pages": [
-              "untitled-page"
-            ]
+            "pages": []
           },
           {
             "group": "Hardware",
