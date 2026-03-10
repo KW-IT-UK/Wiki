@@ -6,30 +6,43 @@
     "primary": "#0D9373"
   },
   "navigation": {
-    "tabs": [
+    "products": [
       {
-        "tab": "KW Group"
-      },
-      {
-        "tab": "KW IT",
-        "groups": [
+        "product": "KW Wiki",
+        "color": {
+          "light": "#ff0000",
+          "dark": "#ff0000"
+        },
+        "description": "KW Wiki Page",
+        "tabs": [
           {
-            "group": "FAQ",
-            "pages": []
-          },
-          {
-            "group": "Software",
+            "tab": "KW Group",
             "pages": [
-              "test-page"
+              "homepage"
             ]
           },
           {
-            "group": "Server Hosting",
-            "pages": []
-          },
-          {
-            "group": "Website Hosting",
-            "pages": []
+            "tab": "KW IT",
+            "groups": [
+              {
+                "group": "FAQ",
+                "pages": []
+              },
+              {
+                "group": "Software",
+                "pages": [
+                  "test-page"
+                ]
+              },
+              {
+                "group": "Server Hosting",
+                "pages": []
+              },
+              {
+                "group": "Website Hosting",
+                "pages": []
+              }
+            ]
           }
         ]
       }
