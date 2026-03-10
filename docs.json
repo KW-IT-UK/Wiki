@@ -48,5 +48,24 @@
       }
     ]
   },
-  "description": "Wiki Documentation for all companies in the KW Group"
+  "description": "Wiki Documentation for all companies in the KW Group",
+  "footer": {
+    "links": [
+      {
+        "header": "Websites",
+        "items": [
+          {
+            "label": "KW IT",
+            "href": "https://kw-it.co.uk"
+          }
+        ]
+      }
+    ],
+    "socials": {
+      "linkedin": "https://www.linkedin.com/company/98381472",
+      "github": "https://github.com/KW-IT-UK",
+      "facebook": "https://www.facebook.com/kwituk",
+      "website": "https://kw-it.co.uk"
+    }
+  }
 }
