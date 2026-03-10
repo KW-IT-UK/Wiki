@@ -1,0 +1,9 @@
+{
+  "name": "Wiki",
+  "navigation": [
+    {
+      "group": "Getting Started",
+      "pages": ["introduction"]
+    }
+  ]
+}
